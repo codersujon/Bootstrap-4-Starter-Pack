@@ -11,4 +11,4 @@
 2. jquery.mi.js
 3. popper.min.js
 
-and the Main index.html file is also included.
+and the main index.html file is also included.
